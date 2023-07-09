@@ -116,3 +116,12 @@ main{
 .about-inf0{
     text-align: center;
 }
+#what-i-don-description{
+    padding: 30px 150px ;
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
