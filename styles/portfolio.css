@@ -14,7 +14,7 @@ body{
     border: 0;
     padding: 20px 35px;
     justify-content: center;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 .buttor-style{
     margin-top: 50px;
@@ -96,7 +96,10 @@ nav a{
     max-width: 500px;
 }
 /*main section sryle */
-
+main{ 
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 /* about section styles*/
 .about{
@@ -106,3 +109,10 @@ nav a{
     margin-top: 130px;
 }
 
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-inf0{
+    text-align: center;
+}
