@@ -14,7 +14,9 @@ body{
     border: 0;
     padding: 20px 35px;
     justify-content: center;
+    margin-top: 10px;
 }
+
 .section-title{
     color: #181818;
     text-align: center;
