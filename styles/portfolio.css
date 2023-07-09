@@ -16,6 +16,9 @@ body{
     justify-content: center;
     margin-top: 10px;
 }
+.buttor-style{
+    margin-top: 50px;
+}
 
 .section-title{
     color: #181818;
@@ -86,8 +89,8 @@ nav a{
 .banner-discription{
     font-size: 14px;
     color: #474747;
-    margin-bottom: 0;
-    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-top: 8px;
 }
 .banner-content{
     max-width: 500px;
